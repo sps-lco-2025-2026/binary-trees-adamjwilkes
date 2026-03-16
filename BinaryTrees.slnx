@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BinaryTrees/BinaryTrees.csproj" />
+  <Project Path="BlazorApp1/BlazorApp1.csproj" />
+  <Project Path="TestProject1/TestProject1.csproj" />
+</Solution>
